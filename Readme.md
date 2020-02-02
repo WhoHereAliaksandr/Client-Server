@@ -8,6 +8,6 @@
 Запуск клиента:
 
 > Для запуска сервера необходимо перейти в директорию \out\artifacts\Client_jar
-> запустить командную строку и выполнить java -jar Client.jar <ip> <name_port>
+> запустить командную строку и выполнить java -jar Client.jar <name_ip> <name_port>
 
 
